@@ -66,4 +66,4 @@ jobs:
           sleep 10
       - run: |
           echo "🚀 Step 5..."
-          sleep 
+          sleep 10
